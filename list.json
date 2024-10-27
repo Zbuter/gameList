@@ -12,7 +12,7 @@
             "bundleId": "com.tencent.tmgp.dnf",
             "pkg": "",
             "cls": "",
-            "help": "",
+            "help": "如果遇无法跳转 请尝试此方法：\n 1. 打开游戏点击QQ登录 然后会打开QQ 不要点击任何按钮 2. 此时返回本软件 再由号主扫码即可。 ",
             "icon": "http://file.market.xiaomi.com/thumbnail/PNG/l114/AppStore/0932f4d61091540f6834d8b01a408d97a13478444"
         },
         {
