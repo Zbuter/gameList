@@ -6,7 +6,7 @@
     ],
     "game": [
         {
-            "name": "dnf",
+            "name": "地下城与勇士：起源",
             "py": "mdnf",
             "appId": "wx15e4ed4511fd50c9",
             "bundleId": "com.tencent.tmgp.dnf",
