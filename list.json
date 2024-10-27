@@ -46,6 +46,16 @@
             "icon": "https://mmgame.qpic.cn/image/5fb69dbda9471b96ef99e29c3b2e909e85682c0211b2806551cd747fe7507a7e/0"
         },
         {
+            "name": "跑跑卡丁车",
+            "py": "ppkdc",
+            "appId": "wx095ef8ef7e64b291",
+            "bundleId": "com.tencent.tmgp.WePop",
+            "pkg": "",
+            "cls": "",
+            "help": "",
+            "icon": "https://mmgame.qpic.cn/image/2c0be13ad9dfe226fb2a2388806ef5a1cb1fff25075b13edb30bddfe8bae6d01/0"
+        },
+        {
             "name": "天龙八部",
             "py": "tlbb",
             "appId": "wx44b60f3ea0534cd7",
@@ -114,16 +124,6 @@
             "cls": "",
             "help": "",
             "icon": "https://mmocgame.qpic.cn/wechatgame/duc2TvpEgST1qzxOvg6HQgibOOib4gD32iaibez7SRQlGicKx4KNYARSS70tJEd8mZxpr/0"
-        },
-        {
-            "name": "跑跑卡丁车",
-            "py": "ppkdc",
-            "appId": "wx095ef8ef7e64b291",
-            "bundleId": "com.tencent.tmgp.WePop",
-            "pkg": "",
-            "cls": "",
-            "help": "",
-            "icon": "https://mmgame.qpic.cn/image/2c0be13ad9dfe226fb2a2388806ef5a1cb1fff25075b13edb30bddfe8bae6d01/0"
         },
         {
             "name": "魂斗罗:归来",
